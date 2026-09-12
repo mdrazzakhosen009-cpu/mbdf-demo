@@ -1,0 +1,37 @@
+{
+  "settings":{"storeName":"Tangail Tath Ghor","tagline":"Authentic Saree. Handwoven, Heritage, Heart.","phone":"01753519603","whatsapp":"8801753519603","email":"hello@tangailtathghor.com","address":"Tangail, Bangladesh","freeShippingThreshold":2000,"shippingFee":80,"cod":true,"bkash":true,"nagad":true,"rocket":true,"about":"Authentic handloom sarees and heritage textiles, curated with care from Tangail. We bring timeless Bangladeshi craftsmanship to your wardrobe."},
+  "adminPassword":"nexora-admin-123",
+  "categories":[
+    {"id":"cat-saree","name":"Saree","image":"https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=700&q=80"},
+    {"id":"cat-panjabi","name":"Panjabi","image":"https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=700&q=80"},
+    {"id":"cat-fabric","name":"Fabrics","image":"https://images.unsplash.com/photo-1605763240000-7e93b172d754?auto=format&fit=crop&w=700&q=80"},
+    {"id":"cat-shawl","name":"Shawl","image":"https://images.unsplash.com/photo-1601924928377-0c8f2c7b6b4e?auto=format&fit=crop&w=700&q=80"},
+    {"id":"cat-stole","name":"Stole","image":"https://images.unsplash.com/photo-1585488434386-4f2f0e9b4b7a?auto=format&fit=crop&w=700&q=80"},
+    {"id":"cat-bag","name":"Bags & Others","image":"https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=80"}
+  ],
+  "products":[
+    {"id":"P001","name":"Tangail Cotton Saree — White & Red","category":"Saree","price":1850,"oldPrice":2200,"stock":18,"colors":["Maroon","Off White"],"sizes":["Free Size"],"description":"Traditional Tangail cotton saree with a refined red border and classic handloom character. Lightweight, breathable and ideal for everyday elegance.","image":"https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=85","badge":"Bestseller","rating":4.8},
+    {"id":"P002","name":"Premium Cotton Panjabi","category":"Panjabi","price":1450,"oldPrice":1750,"stock":12,"colors":["Black","Cream","Maroon"],"sizes":["M","L","XL","XXL"],"description":"A clean premium panjabi with understated traditional detailing. Comfortable cotton fabric for Eid, events and everyday wear.","image":"https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=85","badge":"New","rating":4.7},
+    {"id":"P003","name":"Handloom Jamdani Blend Fabric","category":"Fabrics","price":950,"oldPrice":1100,"stock":25,"colors":["Blue","Maroon","Mustard","Black"],"sizes":["2.5m","3m","5m"],"description":"Versatile handloom fabric with woven texture, suited for saree, salwar, panjabi and custom tailoring.","image":"https://images.unsplash.com/photo-1605763240000-7e93b172d754?auto=format&fit=crop&w=1000&q=85","badge":"Handloom","rating":4.6},
+    {"id":"P004","name":"Tangail Heritage Shawl","category":"Shawl","price":1200,"oldPrice":1500,"stock":9,"colors":["Red","Black","Cream"],"sizes":["Free Size"],"description":"Soft heritage-inspired shawl with rich woven motifs and an elegant drape.","image":"https://images.unsplash.com/photo-1601924928377-0c8f2c7b6b4e?auto=format&fit=crop&w=1000&q=85","badge":"Limited","rating":4.9},
+    {"id":"P005","name":"Classic Handloom Stole","category":"Stole","price":690,"oldPrice":850,"stock":20,"colors":["Red","Cream","Olive","Black"],"sizes":["180cm"],"description":"Lightweight handloom stole for a polished traditional or contemporary look.","image":"https://images.unsplash.com/photo-1585488434386-4f2f0e9b4b7a?auto=format&fit=crop&w=1000&q=85","badge":"Popular","rating":4.7},
+    {"id":"P006","name":"Weaver's Signature Saree","category":"Saree","price":2650,"oldPrice":3000,"stock":7,"colors":["Cream","Maroon","Gold"],"sizes":["Free Size"],"description":"A premium Tangail-inspired saree with intricate borders, designed for festive occasions and gifting.","image":"https://images.unsplash.com/photo-1610189012906-2e0f4e6f8b2b?auto=format&fit=crop&w=1000&q=85","badge":"Premium","rating":4.9},
+    {"id":"P007","name":"Maroon Festive Panjabi","category":"Panjabi","price":1750,"oldPrice":2100,"stock":11,"colors":["Maroon","Black"],"sizes":["M","L","XL","XXL"],"description":"Rich maroon festive panjabi with subtle traditional texture and comfortable fit.","image":"https://images.unsplash.com/photo-1610652492500-ded49ceeb378?auto=format&fit=crop&w=1000&q=85","badge":"Festive","rating":4.8},
+    {"id":"P008","name":"Handloom Gift Box","category":"Bags & Others","price":890,"oldPrice":1050,"stock":16,"colors":["Cream","Maroon"],"sizes":["Standard"],"description":"A curated handloom gift set presentation, perfect for birthdays, weddings and festive gifting.","image":"https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=85","badge":"Gift","rating":4.6},
+    {"id":"P009","name":"Traditional Red Border Saree","category":"Saree","price":1990,"oldPrice":2350,"stock":14,"colors":["Red","Off White"],"sizes":["Free Size"],"description":"A graceful red-border saree that captures the signature Tangail aesthetic in a versatile silhouette.","image":"https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=1000&q=85","badge":"Bestseller","rating":4.8},
+    {"id":"P010","name":"Everyday Soft Cotton Saree","category":"Saree","price":1550,"oldPrice":1800,"stock":22,"colors":["Blue","Green","Cream"],"sizes":["Free Size"],"description":"Soft everyday cotton saree designed for comfort, easy drape and regular wear.","image":"https://images.unsplash.com/photo-1583391733956-6c78276477e2?auto=format&fit=crop&w=1000&q=85","badge":"Everyday","rating":4.7}
+  ],
+  "reviews":[
+    {"id":"R1","name":"Nusrat Jahan","rating":5,"text":"The saree was even more beautiful in person. Packaging was premium and delivery was fast."},
+    {"id":"R2","name":"Maliha Rahman","rating":5,"text":"Very comfortable cotton and the border finishing is beautiful. Will order again."},
+    {"id":"R3","name":"Sadia Ahmed","rating":4,"text":"Loved the traditional look. Customer support also replied quickly."},
+    {"id":"R4","name":"Farhan Kabir","rating":5,"text":"Ordered a panjabi as a gift. The quality and presentation were excellent."}
+  ],
+  "faqs":[
+    {"id":"F1","q":"Do you offer cash on delivery?","a":"Yes. Cash on delivery is available across Bangladesh where supported by our delivery partners."},
+    {"id":"F2","q":"How long does delivery take?","a":"Inside major cities it usually takes 2–3 working days; outside cities it may take 3–5 working days."},
+    {"id":"F3","q":"Can I choose a saree color?","a":"Yes. Product details show available color options. If a specific color is unavailable, the assistant will tell you."},
+    {"id":"F4","q":"Can I order through WhatsApp?","a":"Yes. You can contact our support number from the WhatsApp button for assistance."}
+  ],
+  "orders":[]
+}
